@@ -4,7 +4,7 @@
 - word count: 191
 
 ### translation
-<img class="center" src="./images/002_project_starline_demonstration.gif" height="35%" width="auto" margin="auto">
+<img src="./images/002_project_starline_demonstration.gif" height="35%" width="auto" margin="auto">
 
 > 人們都喜歡有人作伴，不管是分享所見、合作解決問題，又或是單純的交心對話。陪伴在今年顯得格外得重要，從前的外出旅遊現在卻只能待在家裏，遠程工作更是未來的趨勢。
 
@@ -15,13 +15,6 @@
 > 我們的答案是星鏈計劃<small>(實際上我們已將在這方面努力有好幾年了)</small>。我們利用了近年來軟件及硬件上高速的進展，使不管是朋友同事或是家人之間，在使用時都可以得到雙方彷彿真的是在面對面一般的感覺，即使他們之前可能相隔了幾個大洲。
 
 > 想象下我們往鏡子看去，你看到的不是你的鏡像，而是 1:1 真實比例、超乎視頻通話的 3D 視覺體驗。對方彷彿就真的和你在同一個屋子裏，手勢或是眼神上的交流更不在話下。
-
-<style>
-img.center {
-    display: block;
-    margin: auto;
-}
-</style>
 
 -----
 
