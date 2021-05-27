@@ -12,14 +12,15 @@
     - 維基百科
     - Google in general
 4. 工具 (先自翻 後利用工具 譯文是譯者與讀者兩者的溝通)
-   - 歐陸詞典 若需要 將某個詞彙翻譯地非常地道
-   - DeepL 若自己覺得 無法將特定表達方式翻地非常地道
+   - [歐陸詞典](https://www.eudic.net/v4/en/home/buy) 若需要 將某個詞彙翻譯地非常地道
+   - [DeepL](https://www.deepl.com/translator) 或 [Bing Translator](https://www.bing.com/translator) 若自己覺得 無法將特定表達方式翻地非常地道
 
-### Sound *native* and Accessibility
+### Sound *native* and .. Accessibility
 > For non-technical documents, at least.
-1. 在不影響其核心意思的情況下，讀者應不需要任何前備知識理解
-    > CIA 會被我翻譯爲 國家安全局，例：黑客攻入 CIA
-    > CIA 會被我翻譯爲 中央情報局，當文中明確指 CIA
+1. 在不影響其核心意思的情況下，讀者應需要儘可能少的前備知識來理解內容
+    > <del>CIA 會被我翻譯爲 國家安全局級別的機構，例：黑客攻入 CIA，NSA</del>
+
+    > <del>CIA 會被我翻譯爲 中央情報局，當文中明確指 CIA</del>
 
 ### On X
 - on Aeon & *You*
