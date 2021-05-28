@@ -1,12 +1,11 @@
-
 ### Articles
 > sort: newest to oldest
 - [x] [Animals to be formally recognised as sentient beings in UK law](./003-animals-to-be-formally-recognised-as-sentient-beings-in-uk-law.md) 👉 [source](https://www.theguardian.com/world/2021/may/12/animals-to-be-formally-recognised-as-sentient-beings-in-uk-law)
 - [x] [Project Starline: Feel like you're there, together](./002-project-starline-feel-like-you-re-there-together.md) 👉 [source](https://blog.google/technology/research/project-starline/)
 - [x] [Coding is not ‘fun’, it’s technically and ethically complex](./001-coding-is-not-fun-it-s-technically-and-ethically-complex.md) 👉 [source](https://aeon.co/ideas/coding-is-not-fun-it-s-technically-and-ethically-complex)
 
-
-### Process
+### On Translation Process
+> 注意：當前這裏的
 1. 曾經翻譯過的內容
 2. 我的大腦 (*freestyle*)
 3. 概念性 (如原語言中無法直接翻譯過來的比喻)
@@ -28,14 +27,3 @@
            - <small>(博客來)</small> [中華成語大詞典](https://www.books.com.tw/products/CN11100854)
            - <small>(Wikipedia)</small> [漢語大辭典](https://zh.wikipedia.org/zh-hant/%E6%BC%A2%E8%AA%9E%E5%A4%A7%E8%A9%9E%E5%85%B8)
    - [DeepL](https://www.deepl.com/translator), then [Bing Translator](https://www.bing.com/translator)
-
-### On Translation
-1. 翻譯一篇文章往往要閱讀至少 10 篇以上以確定相關的上下文沒有任何問題。
-
-### On X
-- on Aeon & *You*
-    > Aeon 文章的標準實際上遠遠高出同類網站，當前你覺得不準確甚是完全錯誤的內容，一旦處於正確的 context，瞬間就會豁然開朗，說是 Eureka 也完全不爲過。
-- on * & *You*
-    > *
-- on * & *You*
-    > *
