@@ -4,6 +4,9 @@
 - [x] [Project Starline: Feel like you're there, together](./002-project-starline-feel-like-you-re-there-together.md) 👉 [source](https://blog.google/technology/research/project-starline/)
 - [x] [Coding is not ‘fun’, it’s technically and ethically complex](./001-coding-is-not-fun-it-s-technically-and-ethically-complex.md) 👉 [source](https://aeon.co/ideas/coding-is-not-fun-it-s-technically-and-ethically-complex)
 
+### On Myself
+1. 我在翻譯方面是徹徹底底的新手。
+
 ### On Translation Process
 > 注意：當前這裏的
 1. 曾經翻譯過的內容
