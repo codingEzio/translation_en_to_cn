@@ -22,7 +22,7 @@
             - <small>(amazon)</small> [The American Heritage® Dictionary of the English Language, Fourth Edition](https://www.amazon.com/American-Heritage-Dictionary-Century-Reference/dp/0440237017)
         - en-en for special purposes
             - <small>(amazon)</small> [Use the right word: Modern Guide to Synonyms and Related Words](https://www.amazon.com.au/Use-right-word-Synonyms-Related/dp/B0007DPFPA)
-            - <small>(amazon)</small> [The American Heritage Dictionary of Idioms, Second Edition](https://www.amazon.com/American-Heritage-Dictionary-Idioms-Second/dp/0547676581)
+            - <small>(amazon)</small> [**The American Heritage Dictionary of Idioms, Second Edition**](https://www.amazon.com/American-Heritage-Dictionary-Idioms-Second/dp/0547676581)
        - en-zh
             - <small>(taobao)</small> [劍橋高階英漢雙解詞典 <small>(Cambridge Advanced Learner's Dictionary)</small>](https://world.taobao.com/item/641720308049.htm)
        - zh-zh
