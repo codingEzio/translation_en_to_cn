@@ -24,9 +24,9 @@
 
 > 伊亚德・拉赫万 <small>(Iyad Rahwan)</small> 說：如果你把這個問題具體化爲簡單的規則，你會發現算法中“不要毀滅世界”這條規則反倒會讓它沒法完成它的任務：假設這真的發生了，你完全沒法知道它究竟是還在分析潛在的威脅，還是它已經完全罷工了。如果真是這樣，那麼這個算法一點也起不到它應有的用處。
 
-> 由上面的計算我們可以得出，實現出所謂的 ”遏制算法” 很不現實。一個算法一下就判斷出一個人工智能對這個世界是否有害？不存在的！研究人員還提到，我們同樣沒法判斷超級人工智能是否已經來了，這種判斷本身也是類似于 ”遏制算法“ 的大問題。
+> 由上面的計算我們可以得出，實現出所謂的 ”遏制算法” 是很不切實際的。一個算法一下就判斷出一個人工智能對這個世界是否有害？不存在的！研究人員還提到，我們完全沒法判斷超級人工智能是否已經來到了這個世界，這判斷本身也是非常難解決的大問題。
 
-> 該項研究于人工智能研究周刊發表（名爲 "*Superintelligence cannot be contained: Lessons from Computability Theory*")。其他涉及此研究的研究人员还包括来自xx的xx、来自yy的yy、来自zz的zz以及aa。
+> 該項研究于人工智能研究周刊發表（名爲 "*Superintelligence cannot be contained: Lessons from Computability Theory*")。其他涉及此研究的研究人员还包括来自南加州大学的安德烈・阿贝留克 <small>(Andres Abeliuk)</small>、马德里自治大学的曼努埃尔・阿方塞卡 <small>(Manuel Alfonseca)</small>、IMDEA 网络研究所的安东尼奥・费尔南德斯・安塔 <small>(Antonio Fernandez Anta)</small> 以及洛伦佐・科维洛 <small>(Lorenzo Coviello)</small>。
 
 ----
 
