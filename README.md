@@ -1,5 +1,6 @@
 ### Articles
 > sort: newest to oldest
+- [x] [Keep Your Identity Small](./006-keep-your-identity-small.md) 👉 [source](http://www.paulgraham.com/identity.html)
 - [x] [We wouldn’t be able to control superintelligent machines](./005-we-wouldn-t-be-able-to-control-superintelligent-machines.md) 👉 [source](https://www.mpg.de/16231640/0108-bild-computer-scientists-we-wouldn-t-be-able-to-control-superintelligent-machines-149835-x)
 - [x] [Mars Helicopter Lands Safely After Serious In-Flight Anomaly](./004-mars-helicopter-lands-safely-after-serious-inflight-anomaly.md) 👉 [source](https://spectrum.ieee.org/automaton/robotics/space-robots/mars-helicopter-lands-safely-after-serious-inflight-anomaly)
 - [x] [Animals to be formally recognised as sentient beings in UK law](./003-animals-to-be-formally-recognised-as-sentient-beings-in-uk-law.md) 👉 [source](https://www.theguardian.com/world/2021/may/12/animals-to-be-formally-recognised-as-sentient-beings-in-uk-law)
