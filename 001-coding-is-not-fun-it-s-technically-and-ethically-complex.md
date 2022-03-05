@@ -1,10 +1,11 @@
-
 ### meta info
+
 - paragraph: 7
 - word count: 627
 
 ### translation
-> "編程超容易的!" 相關領域內的大師如是說。從非營利組織 [*code.org*](https://code.org) 的宣稱人人都能學會編程，到蘋果現任ceo將編程稱作是有趣且具有互動性的；編程如同是樂高積木一般，人人都能輕鬆地構建出自己想要的任何物品。
+
+> "編程超容易的!" 相關領域內的大師如是說。從非營利組織 [_code.org_](https://code.org) 的宣稱人人都能學會編程，到蘋果現任 ceo 將編程稱作是有趣且具有互動性的；編程如同是樂高積木一般，人人都能輕鬆地構建出自己想要的任何物品。
 
 > 這些美好的描述在與實際生活的比較下完全是不堪一擊。如果是對此領域並不瞭解，一些針對程序開發者思維的描述聽起來也許很奇怪。他們對事物能夠高度分析性地去認識；需要近乎超人般的專注力來應對其極爲複雜的工作內容；對於細節近乎瘋狂的追求不算是過高的要求，一點點的懈怠更是完全無法被容忍。處於類似這樣的專注力的狀態通常被稱爲“心流”，這種近乎人機共生狀態能夠極大提高其解決問題的能力。
 
@@ -18,16 +19,17 @@
 
 > 在這世界變得越來越複雜並聯通，軟件對於人們的生活越來越不可或缺，將程序開發稱爲簡單是相當不負責任的行爲。軟件並非只是一些代碼的集合，亦非純技術性與現實生活沒有聯繫。在未來，懂編程將會稱爲一個積極公民不可或缺的基本技能。表面看起來人人會編程必定能使社會進步、提高個人的工作能力，實際收益的卻是慢慢退出公共視野的超級科技富豪。
 
------
+---
 
 ### footnote
+
 1. 開發者與程序員：兩者在多數情況下可通用，但在考慮語氣及上下文時，這兩者的差別更像是 “廚師與做飯的人”。
 2. 算法政治化：世界上多數人訪問網站時所用到的加密算法，其出口被嚴格管控，至少以美國而言。
 
 ### comment
-- 如你不同意此文作者的觀點，you probably
-    1. not a programmer
-    2. a programmer but just wants to get quick money
-    3. had never read a lengthy book on computer science
-    4. loath code challenges like Leetcode or HackerRank
 
+- <del>如你不同意此文作者的觀點，you are probably</del>
+  1. <del>not a programmer</del>
+  2. <del>a programmer but just wants to get quick money</del>
+  3. <del>had never read a lengthy book on computer science</del>
+  4. <del>loath code challenges like Leetcode or HackerRank</del>

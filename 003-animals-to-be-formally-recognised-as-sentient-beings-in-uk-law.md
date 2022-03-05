@@ -1,5 +1,5 @@
-
 ### meta info
+
 - paragraph: 13
 - word count: 692
 
@@ -25,7 +25,7 @@
 
 > 來自世界农场动物福利协会的政策經理詹姆斯・韦斯特 <small>(James West)</small> 說道：“我們長期以來一直在督促英國立法機構承認動物是有感情的生命，並在制定與實施法律時將此納入考慮當中。看到政府終於要對用於屠宰增肥的活動動物出口嚴加管制，我們感到很欣慰。我們的抗爭持續長達幾個世紀，現在也是時候終結這一切不必要且殘忍的貿易了。”
 
-> 他呼籲政府更進一步：不再進口肥鹅肝並阻止相關的交易；針對英國的1600 萬母豬與母雞，禁止使用籠子來飼養它們。
+> 他呼籲政府更進一步：不再進口肥鹅肝並阻止相關的交易；針對英國的 1600 萬母豬與母雞，禁止使用籠子來飼養它們。
 
 > 他還說：“這些正面的布告必須有堅實的基礎來支撐，詳盡的生產標籤更是必須；政府必須確保這來之不易的改進並不會被未來的貿易協定所破壞。”
 
@@ -33,18 +33,20 @@
 
 > 來自國際人道協會的執行董事克萊兒・巴斯說道 <small>(Claire Bass)</small> :“要想真的實現這個宏大的計劃，英國政府必須真正的理解並投入動物福利事業；爲動物奮鬥福祉不僅是正確的事去做，它所爲解決全球規模性的問題起到的作用也是不可忽視，比如氣候變暖、因抗生素導致的抗藥性以及大規模傳染病的預防。”
 
------
+---
 
 ### footnote
+
 1. cn [肥鹅肝](https://zh.wikipedia.org/zh-hans/%E8%82%A5%E8%82%9D)：通過強制灌食製出的動物肝臟
 2. en [給貓咪嵌入芯片](https://www.vets4pets.com/pet-health-advice/cat-advice/microchipping-your-cat/)：你可以把這當作是配了 GPS 定位系統的高級項圈。
-3. en [電擊項圈](https://en.wikipedia.org/wiki/Shock_collar)：遠程操作遠至200米、1500至4500伏特至多可持續10秒以上、一般固定在**脖子**處。
+3. en [電擊項圈](https://en.wikipedia.org/wiki/Shock_collar)：遠程操作遠至 200 米、1500 至 4500 伏特至多可持續 10 秒以上、一般固定在**脖子**處。
 4. cn [良食基金专访｜ 林伯里：下一次全球疫情，是不是已经在我们餐盘上了？ ](https://www.ciwf.cn/news/72)
 
 ### comment
+
 1. 一張圖片足以
-    > [<img src="./images/003_animal_speciesism_cow_versus_dog.jpg" height="auto" width="50%" margin="auto" alt="Speciesism involves treating members of one species as morally more important than members of other species in the context of their similar interests.">](https://en.wikipedia.org/wiki/Speciesism)
+   > [<img src="./images/003_animal_speciesism_cow_versus_dog.jpg" height="auto" width="50%" margin="auto" alt="Speciesism involves treating members of one species as morally more important than members of other species in the context of their similar interests.">](https://en.wikipedia.org/wiki/Speciesism)
 2. 肥鹅肝的製作流程演示
-    > [<img src="./images/003_the_making_of_fole_gras1.jpg" height="auto" width="40%" margin="auto" alt="Force-feeding or ‘gavage’ at a duck farm in New York state. Photograph: Bebeto Matthews/AP">](https://www.theguardian.com/world/2019/nov/03/foie-gras-pressure-grows-british-chefs-new-york-ban) [<img src="./images/003_the_making_of_fole_gras2.jpg" height="auto" width="40%" margin="auto" alt="Modern gavage feeding process">](https://en.wikipedia.org/wiki/Foie_gras#Feeding_phase)
+   > [<img src="./images/003_the_making_of_fole_gras1.jpg" height="auto" width="40%" margin="auto" alt="Force-feeding or ‘gavage’ at a duck farm in New York state. Photograph: Bebeto Matthews/AP">](https://www.theguardian.com/world/2019/nov/03/foie-gras-pressure-grows-british-chefs-new-york-ban) [<img src="./images/003_the_making_of_fole_gras2.jpg" height="auto" width="40%" margin="auto" alt="Modern gavage feeding process">](https://en.wikipedia.org/wiki/Foie_gras#Feeding_phase)
 3. Some of the lengthy discussions give you nothing
-    > 比如這位[擁護電子項圈](https://awesomedogs.blog/2013/06/07/its-not-the-volts-its-the-amps/)的 retard
+   > 比如這位[擁護電子項圈](https://awesomedogs.blog/2013/06/07/its-not-the-volts-its-the-amps/)的 retard

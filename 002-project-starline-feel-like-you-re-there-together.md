@@ -1,5 +1,5 @@
-
 ### meta info
+
 - paragraph: 11
 - word count: 458
 
@@ -35,11 +35,10 @@
 
 > 我們對目前取得的進展以及這項科技的潛力十分興奮。我們期待今年晚些時候分享更多關於此項目的信息。
 
-
------
+---
 
 ### footnote
+
 1. 演示視頻 on [Youtube](https://www.youtube.com/watch?v=Q13CishCKXY)
 2. 相關討論 on [Hacker News](https://news.ycombinator.com/item?id=27199330)
 3. 舊金山灣區與紐約距離大致有 4660 公里，與西雅圖大致有 1282 公里。
-
